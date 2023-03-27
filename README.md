@@ -1,1 +1,9 @@
-This is my readme file
+Evalyne Mueke
+Languages:
+    -HTML
+    -CSS
+    - JS
+    -REACT
+    -RUBY
+    -RUBY ON RAILS
+
