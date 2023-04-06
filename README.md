@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/evalynemueke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evalynemueke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/evalyne mueke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evalyne mueke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Evalyne Mueke" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evalyne mueke" height="30" width="40" /></a>
 <a href="https://instagram.com/mini_mueke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mini_mueke" height="30" width="40" /></a>
 <a href="https://dribbble.com/evalyne mueke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="evalyne mueke" height="30" width="40" /></a>
 <a href="https://medium.com/@ev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ev" height="30" width="40" /></a>
