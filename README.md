@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evalynemueke" alt="evalynemueke" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/evalynemueke" target="blank"><img src="https://img.shields.io/twitter/follow/evalynemueke?logo=twitter&style=for-the-badge" alt="evalynemueke" /></a> </p>
+<hr></hr>
 
 - 🔭 I’m currently working on [Palm fitness](https://github.com/EvalyneMueke/phase_4_project_api)
 
