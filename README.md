@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Ruby on rails**
 
-- 👨‍💻 Personal Website [https://jade-mousse-8e9c37.netlify.app/](https://jade-mousse-8e9c37.netlify.app/)
+- 👨‍💻 Personal Website [https://mueke-evalyne.vercel.app/](https://mueke-evalyne.vercel.app/)
 
 - 💬 Ask me about **Ruby,Javascript, React, HTML,CSS,Bootstrap and Rals**
 
